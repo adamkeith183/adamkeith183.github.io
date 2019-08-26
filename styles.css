@@ -118,3 +118,8 @@ p {
 .post-author img, .about-author img {
   border-radius: 50%;
 }
+
+.about-author img {
+  width: 250px;
+  height: 250px;
+  vertical-align: middle;
